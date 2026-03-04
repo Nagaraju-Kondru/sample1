@@ -10,6 +10,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>Expo Deploy Test</Text>
       <Text>This is a sample React Native Expo app.</Text>
+      <Text>Kondru Nagaraju</Text>
 
       <Button title="Click Me" onPress={handlePress} />
     </View>
